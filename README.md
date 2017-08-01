@@ -17,3 +17,17 @@ A learning session practicing Git
 ``` 
 #clone
 ```
+
+```
+status
+```
+
+```
+branch:
+
+create and move between branches
+```
+
+```
+push
+```
