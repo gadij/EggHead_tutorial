@@ -1,4 +1,4 @@
 function helloFromGit() {
-  alert('Hello from git');
+  console.log('Hello from git');
 }
 
