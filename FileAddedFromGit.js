@@ -1,4 +1,5 @@
 function helloFromGit() {
-  console.log('Hello from git');
+  var string = 'Hello from Git';
+  console.log(string);
 }
 
