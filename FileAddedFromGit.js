@@ -1,4 +1,5 @@
 function helloFromGit() {
-  alert('Hello from git');
+  var string = 'Hello from git';
+  alert(string);
 }
 
